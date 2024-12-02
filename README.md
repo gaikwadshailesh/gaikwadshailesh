@@ -1,4 +1,4 @@
-![Welcome Banner](Profile.png)
+![Welcome Banner](ProfileImageFinal1.png)
 
 <h1 align="center">Hi 👋, I'm Shailesh Gaikwad</h1>
 <h3 align="center">Cloud Solutions Architect AI</h3>
